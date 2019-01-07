@@ -2,5 +2,5 @@
 
 ```
 getURLSlug('My Favorite Songs');
-// => 'my-favorite-songs'
+// => 'my-favorite-songs.'
 ```
