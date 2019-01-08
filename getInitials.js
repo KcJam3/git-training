@@ -1,4 +1,4 @@
-export default function getInitials(name) {
+function getInitials(name) {
     return name.split(' ')
         .map(word => word.charAt(0).toUpperCase())
         .join('');
