@@ -1,4 +1,4 @@
-export default function getMonthName(place) {
+function getMonthName(place) {
     const months = [
         'january',
         'february'
